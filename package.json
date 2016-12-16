@@ -5,7 +5,9 @@
   "scripts": {},
   "author": "Eric Stamper",
   "license": "MIT",
-  "dependencies": {},
+  "dependencies": {
+    "whatwg-fetch": "1.0.0"
+  },
   "devDependencies": {
     "babel-cli": "6.16.0",
     "babel-core": "6.17.0",
